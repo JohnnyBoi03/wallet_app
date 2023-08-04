@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Images
+## Image
 ![Screenshot_1691149864](https://github.com/JohnnyBoi03/wallet_app/assets/91638476/bfca8919-2e20-48b9-982e-faef2b78bf17)
 
 This project is a starting point for a Flutter application.
